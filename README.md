@@ -1,8 +1,8 @@
-## About Me <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## About Me
 
-An entry-level Data Analyst, which have been working with LaTeX editing and has a Biomedical Engineering background from Franciscan University, in which accquired a Nanosciences Master's Degree. I was always data enthusiast. I am open to collaborating on projects and innovative/disruptive ideas. 
+An entry-level **Data Analyst**, which have been working with **LaTeX editing** and has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. I was always data enthusiast. I am open to collaborating on projects and innovative/disruptive ideas. 
 
-As a freelancer, has completed more than 140 projects to customers from 20+ countries, mantaining a 5-star rating average over 2+ years.
+As a **freelancer**, has completed more than **140 projects** to customers from **20+ countries**, mantaining a **5-star rating** average over 2+ years.
 
 <p align="center">
 <img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png" width="700">
