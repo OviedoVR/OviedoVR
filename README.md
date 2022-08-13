@@ -2,8 +2,10 @@
 
 An entry-level Data Analyst, which have been working with LaTeX editing and has a Biomedical Engineering background from Franciscan University, in which accquired a Nanosciences Master's Degree. I was always data enthusiast. I am open to collaborating on projects and innovative/disruptive ideas. 
 
-
 As a freelancer, has completed more than 140 projects to customers from 20+ countries, mantaining a 5-star rating average over 2+ years.
+
+![alt text](http://url/to/projects.png)
+
 Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/vinicius-oviedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
