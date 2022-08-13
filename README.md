@@ -5,7 +5,7 @@ An entry-level **Data Analyst**, which have been working with **LaTeX editing** 
 As a **freelancer**, has completed more than **140 projects** to customers from **20+ countries**, mantaining a **5-star rating** average over 2+ years.
 
 <p align="center">
-<img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png" width="700">
+<img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png">
 </p>
 
 Feel free to connect with me here:
