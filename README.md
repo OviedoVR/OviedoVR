@@ -8,7 +8,7 @@ As a **freelancer**, has completed more than **140 projects** to customers from 
 <img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png">
 </p>
 
-Feel free to connect with me here:
+Useful links:
 
 [![Linkedin Badge](https://img.shields.io/badge/vinicius-oviedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
 [![Medium Badge](https://img.shields.io/badge/-@vo.freelancer5-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vo.freelancer5)](https://medium.com/@vo.freelancer5)
