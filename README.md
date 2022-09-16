@@ -14,6 +14,8 @@ Useful links:
 [![Medium Badge](https://img.shields.io/badge/-@vo.freelancer5-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vo.freelancer5)](https://medium.com/@vo.freelancer5)
 [![Gmail Badge](https://img.shields.io/badge/-oviedo.vinicius@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oviedo.vinicius@gmail.com)](mailto:oviedo.vinicius@gmail.com)
 
+[Fiverr profile (Freelancer Marketplace)](https://www.fiverr.com/freelancer_vo)
+
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
