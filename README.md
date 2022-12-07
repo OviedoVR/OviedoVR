@@ -2,7 +2,7 @@
 
 An entry-level **Data Analyst**, which have been working with **LaTeX editing** and has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. I was always data enthusiast. I am open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me on Linkedin and also check out my articles on Medium!
 
-As a **freelancer**, has completed more than **140 projects** to customers from **20+ countries**, mantaining a **5-star rating** average over 2+ years.
+As a **freelancer**, has completed more than **170 projects** to customers from **26 countries**, mantaining a **5-star rating** average over 2+ years.
 
 <p align="center">
 <img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png">
