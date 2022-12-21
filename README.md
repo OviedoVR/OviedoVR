@@ -25,7 +25,7 @@ Useful links:
 ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=databricks)
 
 
-## Projects
+## Github Data Analytics Projects
 
 [![EN](https://img.shields.io/badge/-English-black?link=https://github.com/OviedoVR)](https://github.com/OviedoVR/)
 [![PT](https://img.shields.io/badge/-Portuguese-00cc00?link=https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt)](https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt)
