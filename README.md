@@ -36,3 +36,13 @@ Useful links:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OviedoVR.OviedoVR)
 
 ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=OviedoVR&show_icons=true&theme=transparent)
+
+
+## Freelancer results
+
+ Has already delivered hundreds of projects to customers from 26 distinct countries worldwide.
+ 
+ <p aling="center">
+ <img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png" 
+  width="780"/>
+  </p>
