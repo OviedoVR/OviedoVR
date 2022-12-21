@@ -23,7 +23,8 @@ Useful links:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Spark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=apache-spark)
 ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=databricks)
-
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
+![Overlef](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=overleaf)
 
 ## Github Data Analytics Projects
 
