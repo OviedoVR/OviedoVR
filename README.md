@@ -44,5 +44,5 @@ Useful links:
  
  <p aling="center">
  <img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png" 
-  width="780"/>
+  width="700"/>
   </p>
