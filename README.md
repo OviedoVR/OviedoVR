@@ -1,21 +1,35 @@
 ## About Me
 
-An entry-level **Data Analyst**, which have been working with **LaTeX editing** and has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. I was always data enthusiast. I am open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me on Linkedin and also check out my articles on Medium!
-
-As a **freelancer**, has completed more than **170 projects** to customers from **26 countries**, mantaining a **5-star rating** average over 2+ years.
-
-<p align="center">
-<img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png"> 
-</p>
+An entry-level **Data Analyst**, which have been working with **LaTeX editing** and has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. Always was a data enthusiast and open to collaborating on projects and innovative/disruptive ideas.
 
 Useful links:
 
-[![Linkedin Badge](https://img.shields.io/badge/vinicius-oviedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
-[![Medium Badge](https://img.shields.io/badge/-@vo.freelancer5-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vo.freelancer5)](https://medium.com/@vo.freelancer5)
-[![Gmail Badge](https://img.shields.io/badge/-oviedo.vinicius@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oviedo.vinicius@gmail.com)](mailto:oviedo.vinicius@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-royalblue?&logo=Linkedin&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
+[![Website Badge](https://img.shields.io/badge/-Website-crimson?&link=https://vinicius-oviedo.streamlit.app/)](https://vinicius-oviedo.streamlit.app/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?&logo=Medium&link=https://medium.com/@vo.freelancer5)](https://medium.com/@vo.freelancer5/)
+[![Fiverr Badge](https://img.shields.io/badge/-Fiverr_profile-charcoal?&link=https://www.fiverr.com/freelancer_vo)](https://www.fiverr.com/freelancer_vo)
+[![Upwork Badge](https://img.shields.io/badge/-Upwork_profile-gray?&logo=Upwork&link=https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)](https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)
+[![Workana Badge](https://img.shields.io/badge/-Workana_profile-orange?&link=https://www.workana.com/freelancer/1d710e81f21dfea16f166db71841541c)](https://www.workana.com/freelancer/1d710e81f21dfea16f166db71841541c)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?&logo=Gmail&link=mailto:oviedo.vinicius@gmail.com)](mailto:oviedo.vinicius@gmail.com)
 
-[Fiverr profile (Freelancer Marketplace)](https://www.fiverr.com/freelancer_vo)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# to update
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -24,3 +38,5 @@ Useful links:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OviedoVR.OviedoVR)
+
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=OviedoVR&show_icons=true&theme=transparent)
