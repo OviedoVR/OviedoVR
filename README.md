@@ -28,7 +28,7 @@ Useful links:
 
 ## Github Data Analytics Projects
 
-[![EN](https://img.shields.io/badge/-English-black?link=https://github.com/OviedoVR)](https:/github.com/OviedoVR/Data_Analytics_Portfolio)
+[![EN](https://img.shields.io/badge/-English-black?link=https://github.com/OviedoVR/Data_Analytics_Portfolio)](https://github.com/OviedoVR/Data_Analytics_Portfolio)
 [![PT](https://img.shields.io/badge/-Portuguese-00cc00?link=https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt)](https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt)
 
 
