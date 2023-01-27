@@ -35,8 +35,6 @@ Useful links:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OviedoVR.OviedoVR)
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=OviedoVR&show_icons=true&theme=transparent)
-
 
 ## Freelancer results
 
