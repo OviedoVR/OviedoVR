@@ -40,7 +40,7 @@ Useful links:
 
 ## Freelancer results
 
- Has already delivered hundreds of projects to customers from 26 distinct countries worldwide.
+ Has already delivered 180+ projects to customers from 27 distinct countries worldwide.
  
  <p aling="center">
  <img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png" 
