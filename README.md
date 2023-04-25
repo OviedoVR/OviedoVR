@@ -25,7 +25,7 @@ Useful links:
 ![Spark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=apache-spark)
 ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=databricks)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
-![Overlef](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=overleaf)
+![Overleaf](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=overleaf)
 
 ## Github Data Analytics Projects
 
@@ -35,11 +35,10 @@ Useful links:
 ## Github Stats
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OviedoVR.OviedoVR)
-
-
+ 
 ## Freelancer results
 
- Has already delivered 180+ projects to customers from 27 distinct countries worldwide.
+ Has already delivered 200+ projects to customers from 30 distinct countries worldwide.
  
  <p aling="center">
  <img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png" 
