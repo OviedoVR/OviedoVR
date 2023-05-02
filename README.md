@@ -5,7 +5,8 @@ An entry-level **Data Analyst**, which have been working with **LaTeX editing** 
 ## Content:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?&logo=Linkedin&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?&logo=Medium&link=https://medium.com/@vo.freelancer5)](https://medium.com/@vo.freelancer5/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?&logo=Instagram&link=https:www.instagram.com/vinicius.dataandlatex/)](https://www.instagram.com/vinicius.dataandlatex/)
+[![Youtube Badge](https://img.shields.io/badge/-Instagram-white?&logo=Instagram&link=https:www.instagram.com/vinicius.dataandlatex/)](https://www.instagram.com/vinicius.dataandlatex/)
+[![Instagram Badge](https://img.shields.io/badge/-Youtube-black?&logo=Instagram&link=https://youtube.com/channel/UCRc8ff3KUnY47j5sLJHDzSQ)](https://youtube.com/channel/UCRc8ff3KUnY47j5sLJHDzSQ)
 
 ## Consulting:
 [![Website Badge](https://img.shields.io/badge/-Website-crimson?&link=https://oviedovr.github.io/OviedoVR-ViniciusOviedo.github.io/)](https://oviedovr.github.io/OviedoVR-ViniciusOviedo.github.io/)
