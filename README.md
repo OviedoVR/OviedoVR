@@ -2,17 +2,17 @@
 
 An entry-level **Data Analyst**, which have been working with **LaTeX editing** and has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. Always was a data enthusiast and open to collaborating on projects and innovative/disruptive ideas.
 
-Useful links:
-
+## Content:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?&logo=Linkedin&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
-[![Website Badge](https://img.shields.io/badge/-Website-crimson?&link=https://oviedovr.github.io/OviedoVR-ViniciusOviedo.github.io/)](https://oviedovr.github.io/OviedoVR-ViniciusOviedo.github.io/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?&logo=Medium&link=https://medium.com/@vo.freelancer5)](https://medium.com/@vo.freelancer5/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?&logo=Instagram&link=https:www.instagram.com/vinicius.dataandlatex/)](https://www.instagram.com/vinicius.dataandlatex/)
-[![Fiverr Badge](https://img.shields.io/badge/-Fiverr_profile-charcoal?&link=https://www.fiverr.com/freelancer_vo)](https://www.fiverr.com/freelancer_vo)
-[![Upwork Badge](https://img.shields.io/badge/-Upwork_profile-gray?&logo=Upwork&link=https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)](https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)
-[![Workana Badge](https://img.shields.io/badge/-Workana_profile-orange?&link=https://www.workana.com/freelancer/1d710e81f21dfea16f166db71841541c)](https://www.workana.com/freelancer/1d710e81f21dfea16f166db71841541c)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?&logo=Gmail&link=mailto:oviedo.vinicius@gmail.com)](mailto:oviedo.vinicius@gmail.com)
 
+## Consulting:
+[![Website Badge](https://img.shields.io/badge/-Website-crimson?&link=https://oviedovr.github.io/OviedoVR-ViniciusOviedo.github.io/)](https://oviedovr.github.io/OviedoVR-ViniciusOviedo.github.io/)
+[![Fiverr Badge](https://img.shields.io/badge/-Fiverr_profile-charcoal?&link=https://www.fiverr.com/freelancer_vo)](https://www.fiverr.com/freelancer_vo)
+[![Workana Badge](https://img.shields.io/badge/-Workana_profile-orange?&link=https://www.workana.com/freelancer/1d710e81f21dfea16f166db71841541c)](https://www.workana.com/freelancer/1d710e81f21dfea16f166db71841541c)
+[![Upwork Badge](https://img.shields.io/badge/-Upwork_profile-gray?&logo=Upwork&link=https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)](https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?&logo=Gmail&link=mailto:oviedo.vinicius@gmail.com)](mailto:oviedo.vinicius@gmail.com)
 
 ## Technologies/Stack
 
