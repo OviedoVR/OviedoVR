@@ -9,7 +9,7 @@ An entry-level **Data Analyst**, which have been working with **LaTeX editing** 
 [![Instagram Badge](https://img.shields.io/badge/-Youtube-black?&logo=Instagram&link=https://youtube.com/channel/UCRc8ff3KUnY47j5sLJHDzSQ)](https://youtube.com/channel/UCRc8ff3KUnY47j5sLJHDzSQ)
 
 ## Consulting:
-[![Website Badge](https://img.shields.io/badge/-Website-crimson?&link=https://oviedovr.github.io/OviedoVR-ViniciusOviedo.github.io/)](https://oviedovr.github.io/OviedoVR-ViniciusOviedo.github.io/)
+[![Website Badge](https://img.shields.io/badge/-Website-crimson?&link=https://oviedovr.github.io/DataAndLaTeX/)](https://oviedovr.github.io/DataAndLaTeX/)
 [![Fiverr Badge](https://img.shields.io/badge/-Fiverr_profile-charcoal?&link=https://www.fiverr.com/freelancer_vo)](https://www.fiverr.com/freelancer_vo)
 [![Workana Badge](https://img.shields.io/badge/-Workana_profile-orange?&link=https://www.workana.com/freelancer/1d710e81f21dfea16f166db71841541c)](https://www.workana.com/freelancer/1d710e81f21dfea16f166db71841541c)
 [![Upwork Badge](https://img.shields.io/badge/-Upwork_profile-gray?&logo=Upwork&link=https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)](https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)
