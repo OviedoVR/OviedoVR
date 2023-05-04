@@ -10,6 +10,7 @@ An entry-level **Data Analyst**, which have been working with **LaTeX editing** 
 
 ## Consulting:
 [![Website Badge](https://img.shields.io/badge/-Website-crimson?&link=https://oviedovr.github.io/DataAndLaTeX)](https://oviedovr.github.io/DataAndLaTeX/)
+[![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?&logo=Behance&logoColor=white&link=https://www.behance.net/vincius-oviedo)](https://www.behance.net/vincius-oviedo)
 [![Fiverr Badge](https://img.shields.io/badge/-Fiverr_profile-charcoal?&link=https://www.fiverr.com/freelancer_vo)](https://www.fiverr.com/freelancer_vo)
 [![Workana Badge](https://img.shields.io/badge/-Workana_profile-orange?&link=https://www.workana.com/freelancer/1d710e81f21dfea16f166db71841541c)](https://www.workana.com/freelancer/1d710e81f21dfea16f166db71841541c)
 [![Upwork Badge](https://img.shields.io/badge/-Upwork_profile-gray?&logo=Upwork&link=https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)](https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)
