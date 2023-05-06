@@ -1,6 +1,23 @@
 ## About Me
 
-An entry-level **Data Analyst**, which have been working with **LaTeX editing** and has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. Always was a data enthusiast and open to collaborating on projects and innovative/disruptive ideas.
+An entry-level **Data Analyst**, which have been working with **LaTeX editing** and has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. 
+
+Over 3 years solving problems and assisting clients with technology/programming.
+
+✅ Over 200 successful projects delivered <br>
+✅ Customers on 30 countries <br>
+✅ Proven track record of delivering high-quality work
+
+What can I deliver to you when collaborating on a project: <br>
+✅ Transparency related to technical stuff <br>
+✅ Active communication and updates <br>
+✅ Unlimited review/follow-up after deliverables
+
+Project scope: <br>
+📓 Data Analytics (entry-level) <br>
+📓 LaTeX editing (intermediate)
+
+Disponível
 
 ## Content:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?&logo=Linkedin&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
