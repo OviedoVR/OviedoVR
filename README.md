@@ -55,21 +55,7 @@ Disponível
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OviedoVR.OviedoVR)
  
-## Freelancer results
-
-Over 3 years solving problems and assisting clients with technology/programming.<br>
-✅ Over 200 successful projects delivered <br>
-✅ Customers on 30 countries <br>
-✅ Proven track record of delivering high-quality work <br>
-
-What can I deliver to you when collaborating on a project: <br>
-✅ Transparency related to technical stuff <br>
-✅ Active communication and updates <br>
-✅ Unlimited review/follow-up after deliverables
-
-Professional backaground: <br>
-📓Data Analytics (entry-level)<br>
-📓LaTeX editing (intermediate)
+## Freelancing & Consulting
  
  <p aling="center">
  <img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png" 
