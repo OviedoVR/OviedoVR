@@ -5,7 +5,7 @@ An entry-level **Data Analyst**, which have been working with **LaTeX editing** 
 Over 3 years solving problems and assisting clients with technology/programming.
 
 ✅ Over 200 successful projects delivered <br>
-✅ Customers on 30 countries <br>
+✅ Customers on 32 countries <br>
 ✅ Proven track record of delivering high-quality work
 
 What can I deliver to you when collaborating on a project: <br>
