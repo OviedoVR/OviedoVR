@@ -10,8 +10,7 @@ Over 3 years solving problems and assisting clients with technology/programming.
 
 What can I deliver to you when collaborating on a project: <br>
 ✅ Transparency related to technical stuff <br>
-✅ Active communication and updates <br>
-✅ Unlimited review/follow-up after deliverables
+✅ Active communication and updates
 
 Project scope: <br>
 📓 Data Analytics (entry-level) <br>
