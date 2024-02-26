@@ -58,6 +58,6 @@ Disponível
 ## Freelancing & Consulting
  
  <p aling="center">
- <img src="https://github.com/OviedoVR/OviedoVR/blob/main/projects.png" 
+ <img src="https://github.com/OviedoVR/OviedoVR/blob/main/countries-and-projects.png" 
   width="675"/>
   </p>
