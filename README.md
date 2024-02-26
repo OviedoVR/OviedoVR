@@ -59,5 +59,5 @@ Disponível
  
  <p aling="center">
  <img src="https://github.com/OviedoVR/OviedoVR/blob/main/countries-and-projects.png" 
-  width="900"/>
+  width="300"/>
   </p>
