@@ -16,8 +16,6 @@ Project scope: <br>
 📓 Data Analytics (entry-level) <br>
 📓 LaTeX editing (intermediate)
 
-Disponível
-
 ## Content:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?&logo=Linkedin&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?&logo=Medium&link=https://medium.com/@vo.freelancer5)](https://medium.com/@vo.freelancer5/)
