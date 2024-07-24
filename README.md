@@ -19,7 +19,7 @@ Project scope: <br>
 ## Content:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?&logo=Linkedin&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?&logo=Medium&link=https://medium.com/@vo.freelancer5)](https://medium.com/@vo.freelancer5/)
-[![Youtube Badge](https://img.shields.io/badge/-Instagram-white?&logo=Instagram&link=https:www.instagram.com/vinicius.dataandlatex/)](https://www.instagram.com/vinicius.dataandlatex/)
+[![Youtube Badge](https://img.shields.io/badge/-youtube-white?&logo=yotube&link=www.youtube.com/channel/UCRc8ff3KUnY47j5sLJHDzSQ)](https://www.youtube.com/channel/UCRc8ff3KUnY47j5sLJHDzSQ)
 
 ## Consulting:
 [![Website Badge](https://img.shields.io/badge/-Website-crimson?&link=https://oviedovr.github.io/DataAndLaTeX)](https://oviedovr.github.io/DataAndLaTeX/)
