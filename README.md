@@ -1,6 +1,6 @@
 ## About Me
 
-An entry-level **Data Analyst**, which have been working with **LaTeX editing** and has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. 
+**Data Analyst** & **LaTeX editor** who has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. 
 
 Over 4 years solving problems and assisting clients with technology/programming.
 
