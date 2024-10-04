@@ -44,7 +44,7 @@ Project scope: <br>
 
 ## Github Data Analytics Projects
 
-[![PT](https://img.shields.io/badge/-Portuguese-00cc00?link=https:/github.com/OviedoVR/Portfolio-Analista-de-Dados)](https://github.com/OviedoVR/Portfolio)
+[![PT](https://img.shields.io/badge/-Portuguese-00cc00?link=https:/github.com/OviedoVR/Portfolio-Analista-de-Dados)](https://oviedovr.github.io/Portfolio/)
 
 ## Github Stats
 
