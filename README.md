@@ -26,7 +26,7 @@ Project scope: <br>
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?&logo=YouTube&link=www.youtube.com/channel/UCRc8ff3KUnY47j5sLJHDzSQ)](https://www.youtube.com/channel/UCRc8ff3KUnY47j5sLJHDzSQ)
 
 ## Consulting:
-[![Website Badge](https://img.shields.io/badge/-Website-crimson?&link=https://oviedovr.github.io/DataAndLaTeX)](https://oviedovr.github.io/DataAndLaTeX/)
+<!-- [![Website Badge](https://img.shields.io/badge/-Website-crimson?&link=https://oviedovr.github.io/DataAndLaTeX)](https://oviedovr.github.io/DataAndLaTeX/) -->
 [![Fiverr Badge](https://img.shields.io/badge/-Fiverr_profile-charcoal?&link=https://www.fiverr.com/freelancer_vo)](https://www.fiverr.com/freelancer_vo)
 [![Upwork Badge](https://img.shields.io/badge/-Upwork_profile-gray?&logo=Upwork&link=https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)](https://www.upwork.com/freelancers/~0159ceec532c3ee8ae)
 [![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?&logo=Behance&logoColor=white&link=https://www.behance.net/vincius-oviedo)](https://www.behance.net/vincius-oviedo)
