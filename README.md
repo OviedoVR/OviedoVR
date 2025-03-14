@@ -18,7 +18,7 @@ Project scope: <br>
 
 ## Porfolio
 
-[![PT](https://img.shields.io/badge/-Porfifolio-00cc00?link=https:/github.com/OviedoVR/Portfolio-Analista-de-Dados)](https://oviedovr.github.io/Portfolio/)
+[![PT](https://img.shields.io/badge/-Portifolio-00cc00?link=https:/github.com/OviedoVR/Portfolio-Analista-de-Dados)](https://oviedovr.github.io/Portfolio/)
 
 ## Content:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?&logo=Linkedin&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
