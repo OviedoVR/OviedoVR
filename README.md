@@ -2,9 +2,9 @@
 
 **Data Analyst** & **LaTeX editor** who has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. 
 
-Over 4 years solving problems and assisting clients with technology/programming.
+A professional who solves problems and assists customers with technology/programming.
 
-✅ Over 250 successful projects delivered <br>
+✅ Over 300 successful projects delivered <br>
 ✅ Customers on 32 countries <br>
 ✅ Proven track record of delivering high-quality work
 
