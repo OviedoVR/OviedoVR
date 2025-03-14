@@ -16,6 +16,10 @@ Project scope: <br>
 📓 Data Analytics (entry-level) <br>
 📓 LaTeX editing (intermediate)
 
+## Porfolio
+
+[![PT](https://img.shields.io/badge/-Porfifolio-00cc00?link=https:/github.com/OviedoVR/Portfolio-Analista-de-Dados)](https://oviedovr.github.io/Portfolio/)
+
 ## Content:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?&logo=Linkedin&link=https://www.linkedin.com/in/vinicius-oviedo/)](https://www.linkedin.com/in/vinicius-oviedo/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?&logo=Medium&link=https://medium.com/@vo.freelancer5)](https://medium.com/@vo.freelancer5/)
@@ -41,10 +45,6 @@ Project scope: <br>
 ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=databricks)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
 ![Overleaf](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=overleaf)
-
-## Github Data Analytics Projects
-
-[![PT](https://img.shields.io/badge/-Portuguese-00cc00?link=https:/github.com/OviedoVR/Portfolio-Analista-de-Dados)](https://oviedovr.github.io/Portfolio/)
 
 ## Github Stats
 
