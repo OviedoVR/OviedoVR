@@ -1,8 +1,6 @@
 ## About Me
 
-**Data Analyst** & **LaTeX editor** who has a *Biomedical Engineering* background from Franciscan University (UFN), in which accquired a Nanosciences Master's Degree. 
-
-A professional who solves problems and assists customers with technology/programming.
+**Data Analyst** & **LaTeX editor** who has been solving problems and assisting customers with technology/programming.
 
 ✅ Over 300 successful projects delivered <br>
 ✅ Customers on 32 countries <br>
